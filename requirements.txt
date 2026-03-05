@@ -1,0 +1,2 @@
+fastapi-poe>=0.0.47
+uvicorn>=0.24
